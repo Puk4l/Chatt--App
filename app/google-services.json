@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833315640004",
+    "project_id": "prithivv-b4d5b",
+    "storage_bucket": "prithivv-b4d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833315640004:android:2bee8931af20d738d9af91",
+        "android_client_info": {
+          "package_name": "com.example.tamilshockschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833315640004-qpr5ckkj83kadlvs1lo2edsatlvudt2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzsRbt3oihF67Gh-59NAW6suv9M59Ee0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833315640004-qpr5ckkj83kadlvs1lo2edsatlvudt2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
